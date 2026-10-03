@@ -4,6 +4,8 @@ A modern task manager for Android built with Kotlin and Jetpack Compose (Materia
 
 Tasky provides a simple interface for creating, organizing, searching, and managing everyday tasks. Tasks are stored locally on the device using Room, allowing the app to work offline.
 
+https://github.com/user-attachments/assets/997a1a8a-c3dc-4c04-b8c3-6d18ef5f305c
+
 ## Features
 
 - Add, edit, complete, and delete tasks
